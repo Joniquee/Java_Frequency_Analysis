@@ -3,7 +3,7 @@ package Homework;
 import java.io.*;
 import java.util.Scanner;
 
-public class Test {
+public class Main {
     public static void main(String[] args) {
             String filename1;
             String filename2;
